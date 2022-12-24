@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Abdelrahman
+- 👀 I’m interested in Maths & CS
+- 🌱 I’m currently learning Maths
+- 💞️ I’m looking to collaborate on the tech world
+- 📫 abdelrahmaneslaim@gmail.com
