@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdelrahman
-- 👀 I’m interested in Maths & CS
-- 🌱 I’m currently learning Maths
+- 👀 I like reading books
+- 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on the tech world
 - 📫 abdelrahmaneslaim@gmail.com
